@@ -8,7 +8,7 @@ A classical game of mole in the hole in Vanilla.js (JavaScript). My implementati
 - Difficulty adjment button/toggle (NOT DONE YET).
 
 # License
-This project is licensed under MIT Licence. Some rights reserved. You can not use, re-modify, distribute it for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
+Challenge taken from [here](https://www.github.com/wesbos/javascript30/). This project is licensed under MIT Licence. Some rights reserved. You can not use, re-modify, distribute it for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
 
     Copyright 2018-Present. Jishan Shaikh and Rodrigo Medeiros.
 
