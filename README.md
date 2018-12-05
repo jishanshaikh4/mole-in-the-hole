@@ -2,7 +2,7 @@
 A classical game of mole in the hole in Vanilla.js (JavaScript). My implementation of Whoop-the-mole challenge.
 
 ## Improvements to original challenge
-- Overall leaderboard (DONE)
+- Overall leaderboard (DONE, Debugging NOT DONE)
 - Different levels in different pages (DONE)
 - Different levels in same (NOT DONE YET)
 - Difficulty adjment button/toggle (NOT DONE YET).
