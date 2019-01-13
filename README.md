@@ -1,5 +1,5 @@
 # Mole in the Hole
-A classical game of mole in the hole in Vanilla.js (JavaScript). My implementation of Whoop-the-mole challenge adapted from JS30 Challenge.
+A classical game of mole in the hole in Vanilla.js (JavaScript :)). My implementation of Whoop-the-mole challenge adapted from JS 30 Challenge.
 
 ## Improvements to original challenge
 - Overall leaderboard (DONE, Debugging NOT DONE)
